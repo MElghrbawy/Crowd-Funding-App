@@ -12,3 +12,4 @@ touch .env
 	DB_HOST = 'localhost'
 	DB_USER = 'root'
 ```
+# Crowd-Funding-App
