@@ -30,7 +30,7 @@ CrowdFunding Web App that allow user to:
 ## Installation
 
 ```bash
-git clone https://github.com/MElghrbawy/Gym-System
+git clone https://github.com/MElghrbawy/Crowd-Funding-App.git
 cd Crowd-Funding-App
 python -m venv venv
 source venv/Scripts/activate
